@@ -1,0 +1,21 @@
+UPI Rule #1: Never enter your UPI PIN to receive money. A PIN is only required to send money or check your balance.
+
+Verify the Source: Before clicking any link in an SMS or WhatsApp message, verify the sender's identity. Banks never ask for sensitive data via text.
+
+MFA is Mandatory: Enable Multi-Factor Authentication (MFA) on your VIT Bhopal email, GitHub, and all social media accounts.
+
+Public Wi-Fi Warning: Avoid conducting banking transactions or logging into sensitive portals while using free public Wi-Fi (like at railway stations or cafes).
+
+QR Code Caution: Treat QR codes as "Digital Checks" that you are signing. Never scan a code sent by a stranger.
+
+Software Hygiene: Keep your OS and browser updated. As a B.Tech student, ensure your coding environments (like VS Code extensions) are from verified publishers.
+
+Privacy Settings: Set your social media profiles to private to prevent "Identity Theft" where scammers clone your profile to ask your friends for money.
+
+Strong Passwords: Use a passphrase (a long sentence) instead of a simple password. Avoid using your name or birthdate.
+
+Official Reporting Channels:
+
+National Cyber Crime Portal: [suspicious link removed]
+
+National Helpline Number: 1930 (Call immediately if you lose money).
